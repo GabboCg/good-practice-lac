@@ -1,5 +1,5 @@
 --- 
-title: "Good Practice: Love and other codes"
+title: "Best Practices for R users: Love and other codes"
 author: "Gabriel Cabrera"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
